@@ -1,2 +1,2 @@
 # Starbucks
-[STARBUCKS](https://website-starbucks.netlify.app/)
+[CLICK THE STARBUCKS WEBSITE LINK](https://website-starbucks.netlify.app/)
